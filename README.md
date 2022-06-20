@@ -1,5 +1,5 @@
 # CountDownTimer
 
-  Android Development / Java Tutorials - Lesson 11
+  Android Development / Java Tutorial - Lesson 11
   
   Count Down Timer
